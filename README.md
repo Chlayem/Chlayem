@@ -14,7 +14,7 @@
   🎓 I received my Degree from **ENSI** - **National School of Computer Science** in June 2024.
 
 
-  🔭 I’m currently seeking for a job in **Software Engineering** or related fields.
+  🔭 I’m currently seeking an entry job in **Software Engineering** or related fields.
 
   
   🌱 I’m currently focusing on **Web development** while exploring **AI**, **ML** and **Computer Vision**.
