@@ -13,11 +13,9 @@
   
   🎓 I received my Degree from **ENSI** - **National School of Computer Science** in June 2024.
 
-
-  🔭 I’m currently seeking an entry job in **Software Engineering** or related fields.
-
+  💻 I'm currently working as a **C++** Developer in the **Automotive** field with Techinca Engineering GmbH.
   
-  🌱 I’m currently focusing on **Web development** while exploring **AI**, **ML** and **Computer Vision**.
+  🌱 I’m also working on **Web development** while exploring **AI**, **ML** and **Computer Vision**.
         
   🔍 I'm obsessed with **problem-solving**, **critical thinking**, and **continuous learning**.
     
